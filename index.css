@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+marquee{
+    color:red;
+    font-size: 100px;
+    font-weight: 400;
+}
+h1{
+    color:#008080;
+    margin-left: 50px;
+    font-style: italic;
+
+}
+h2{
+    font-size: 30px;
+    font-style:oblique;
+    color: crimson;
+}
+p{
+    font-size: 20px;
+    color:blueviolet;
+    font-style: italic;
+}
+.one{
+    font-family:sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 70px;
+}
+h3{
+    color:blanchedalmond;
+    margin-left: 70px;
+    font-family: Cambria;
+    font-style: oblique;
+}
+.xx{
+    font-style: italic;
+}
+.zz{
+    color: purple;
+    font-style: oblique;
+    
+}
